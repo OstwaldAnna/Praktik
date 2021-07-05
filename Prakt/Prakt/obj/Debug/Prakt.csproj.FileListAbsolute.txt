@@ -1,0 +1,27 @@
+C:\Users\Asya\Desktop\Prakt\Prakt\bin\Debug\Prakt.exe.config
+C:\Users\Asya\Desktop\Prakt\Prakt\bin\Debug\Prakt.exe
+C:\Users\Asya\Desktop\Prakt\Prakt\bin\Debug\Prakt.pdb
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.csprojAssemblyReference.cache
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\MainWindow.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Articles.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Error.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Add new articles.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Profile.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\App.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt_MarkupCompile.cache
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt_MarkupCompile.lref
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\MainWindow.baml
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Articles.baml
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Error.baml
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Add new articles.baml
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Profile.baml
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.g.resources
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.Properties.Resources.resources
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.csproj.GenerateResource.cache
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.csproj.CoreCompileInputs.cache
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.exe
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Prakt.pdb
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Favorites.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Recipes.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\Signin.g.cs
+C:\Users\Asya\Desktop\Prakt\Prakt\obj\Debug\Pages\SingUp.g.cs

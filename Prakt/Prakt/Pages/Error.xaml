@@ -1,0 +1,17 @@
+﻿<Page x:Class="Prakt.Pages.Error"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Prakt.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="731" d:DesignWidth="411"
+      Title="Error">
+
+    <Grid>
+        <Frame
+            Background="#EFD599" FontWeight="Bold"/>
+        <TextBlock Margin="176,204,0,0" TextWrapping="Wrap" Text="Ops" FontSize="32" RenderTransformOrigin="1.088,0.349" VerticalAlignment="Top" HorizontalAlignment="Left" Foreground="White" FontFamily="Preface Sans"/>
+
+    </Grid>
+</Page>
